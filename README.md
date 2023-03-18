@@ -15,4 +15,4 @@ When running the main file the rest is pretty self explanatory.
 This file does not contain any malicious code. You can open the **cracker.py** (not the **cracker.exe**) using Python and see for yourself. The **.exe** is not viewable but I basically ran pyinstaller so if one of your antivirus is triggered when downloading the file that's a false positive.
 
 ### Why even is there a cracker.exe available dor download?
-If you consider using the **cracker.py** file you have to install [**Python**](www.python.org) for that. 
+If you consider using the **cracker.py** file you have to install [**Python**](https://www.python.org) for that. 
