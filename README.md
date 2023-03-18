@@ -12,7 +12,9 @@ In the release there is a "**badWordlist.txt**" which is a wordlist I wrote just
 
 ## Usage
 When trying to crack a **.zip** file, please remember to have the wordlist but also the target **.zip** file in the same path as the "**cracker.py**" file is laying in!  
-Also be sure to add the file extensions when giving input to the **cracker.py** console. Let's say we use the
+  
+Also be sure to add the file extensions when giving input to the **cracker.py** console. Let's say we use the example given in the release. The file you want to crack is not "**secret**", it's "**secret.zip**". The wordlist that will be used is not "**badWordlist**" but "**badWordlist.txt**". If you do not add the file extensions the program will not be able to find the dedicated file and thus will not crack the ZIP!  
+  
 When running the main file the rest is pretty self explanatory.
 
 ## Explanation
