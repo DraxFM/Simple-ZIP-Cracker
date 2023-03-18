@@ -10,7 +10,7 @@ In the release there is a "**badWordlist.txt**" which is a wordlist I wrote just
 
 ## Instructions
 1. Install the latest [Python](https://www.python.org) version.
-2. Download the "**Simple ZIP Cracker v1.0**" release (click [here](https://github.com/DraxFM/Simple-ZIP-Cracker/releases/download/manually/Simple-ZIP-Cracker.zip)).
+2. Download the "**Simple ZIP Cracker v1.0**" release (click [here](https://github.com/DraxFM/Simple-ZIP-Cracker/releases/download/release/Simple-ZIP-Cracker.zip)).
 3. Extract the "**Simple-ZIP-Cracker.zip**" file. You can delete it afterwards.
 4. Open the extracted folder and run the **cracker.py** file.
 
