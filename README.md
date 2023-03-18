@@ -4,7 +4,7 @@ This cracker was scripted by me and is not really complex. I do not plan to cont
 
 ## Instruction for cracker.py
 1. Install the latest [Python](https://www.python.org) version
-2. Download the "**Simple ZIP Cracker v1.0**" release
+2. Download the "**Simple ZIP Cracker v1.0**" release (click [here](https://github.com/DraxFM/Simple-ZIP-Cracker/releases/download/manually/Simple-ZIP-Cracker.zip))
 3. Run the **cracker.py** file
 
 ## Instruction for cracker.exe
