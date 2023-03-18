@@ -2,13 +2,17 @@
   
 This cracker was scripted by me and is not really complex. I do not plan to continue working on it as there's tons of other crackers already in the internet and I'm also trying to work on DraxPloit Grabber which you might wanna check out ;)  
 
+In the release there is a "**badWordlist.txt**" which is a wordlist I wrote just for demonstration. The same with the "**secret.zip**". It's an example file to test my program. Will you be able to crack it open and find the contents of it (there actually are)?
+
 ## Instructions
-1. Install the latest [Python](https://www.python.org) version
-2. Download the "**Simple ZIP Cracker v1.0**" release (click [here](https://github.com/DraxFM/Simple-ZIP-Cracker/releases/download/manually/Simple-ZIP-Cracker.zip))
-3. Run the **cracker.py** file
+1. Install the latest [Python](https://www.python.org) version.
+2. Download the "**Simple ZIP Cracker v1.0**" release (click [here](https://github.com/DraxFM/Simple-ZIP-Cracker/releases/download/manually/Simple-ZIP-Cracker.zip)).
+3. Extract the "**Simple-ZIP-Cracker.zip**" file. You can delete it afterwards.
+4. Open the extracted folder and run the **cracker.py** file.
 
 ## Usage
-When trying to crack a **.zip** file, please remember to have the wordlist but also the target **.zip** file in the same path as the **cracker.py** file is laying in!  
+When trying to crack a **.zip** file, please remember to have the wordlist but also the target **.zip** file in the same path as the "**cracker.py**" file is laying in!  
+Also be sure to add the file extensions when giving input to the **cracker.py** console. Let's say we use the
 When running the main file the rest is pretty self explanatory.
 
 ## Explanation
