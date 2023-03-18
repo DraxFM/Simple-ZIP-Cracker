@@ -19,3 +19,7 @@ When running the main file the rest is pretty self explanatory.
 
 ## Explanation
 This file does not contain any malicious code. You can open the **cracker.py** using Python and see for yourself.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
