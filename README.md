@@ -1,4 +1,4 @@
-# Simple ZIP Cracker
+# Simple ZIP Cracker v1.0
   
 This cracker was scripted by me and is not really complex. I do not plan to continue working on it as there's tons of other crackers already in the internet and I'm also trying to work on DraxPloit Grabber which you might wanna check out ;)  
 
