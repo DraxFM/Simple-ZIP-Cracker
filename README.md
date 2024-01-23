@@ -1,6 +1,6 @@
 # Simple ZIP Cracker v1.0
   
-This cracker was scripted by me and is not really complex. I do not plan to continue working on it as there's tons of other crackers already in the internet and I'm also trying to work on DraxPloit Grabber which you might wanna check out ;)  
+This cracker was scripted by me and is not really complex. I do not plan to continue working on it as there's tons of other crackers already in the internet and I'm also trying to work on DraxPloit Grabber which you might wanna check out ;) (not anymore)  
 
 In the release there is a "**badWordlist.txt**" which is a wordlist I wrote just for demonstration. The same with the "**secret.zip**". It's an example file to test my program. Will you be able to crack it open and find the contents of it?
 
@@ -17,7 +17,7 @@ In the release there is a "**badWordlist.txt**" which is a wordlist I wrote just
 ## Usage
 When trying to crack a **.zip** file, please remember to have the wordlist but also the target **.zip** file in the same path as the "**cracker.py**" file is laying in!  
   
-Also be sure to add the file extensions when giving input to the **cracker.py** console. Let's say we use the example given in the release. The file you want to crack is not "**secret**", it's "**secret.zip**". The wordlist that will be used is not "**badWordlist**" but "**badWordlist.txt**". If you do not add the file extensions the program will not be able to find the dedicated file and thus will not crack the ZIP!  
+Also be sure to add the file extensions when giving input to the **cracker.py** console. Let's say we use the example given in the release. The file you want to crack is not "**secret**", it's "**secret.zip**". The wordlist that will be used is not "**badWordlist**" but "**badWordlist.txt**". If you do not add the file extensions the program will not be able to find the dedicated file thus not being able to crack the ZIP folder!  
   
 When running the main file the rest is pretty self explanatory.
 
